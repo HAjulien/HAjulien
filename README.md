@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour 👋
 
 <!--
 **HAjulien/HAjulien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/HAjulien/projet-vue-Cantine-miam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HAjulien&repo=projet-vue-Cantine-miam" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HAjulien&repo=projet-vue-Cantine-miam&title_color=32a85a&border_color=32a85a" />
 </a>
 <a href="https://github.com/HAjulien/symfony-cantine-miam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HAjulien&repo=symfony-cantine-miam" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HAjulien&repo=symfony-cantine-miam&title_color=4537a1&border_color=4537a1" />
 </a>

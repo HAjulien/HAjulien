@@ -20,10 +20,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAjulien&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-<a href="https://github.com/HAjulien/projet-vue-Cantine-miam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HAjulien&repo=projet-vue-Cantine-miam" />
-</a>
-<a href="https://github.com/HAjulien/symfony-cantine-miam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HAjulien&repo=symfony-cantine-miam" />
-</a>

@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Outils, languages et framework utilisés : 
 <div align="center">
-  <a href="https://code.visualstudio.com/"> 
+   <a href="https://code.visualstudio.com/"> 
     <img alt="VSCode" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   </a>
   <a href="https://www.w3schools.com/html/">
@@ -35,11 +35,19 @@ Here are some ideas to get you started:
   <a href="https://tailwindcss.com/">
     <img alt="Tailwind" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   </a>
+</div>
+
+<div align="center">
+
+  <a href="https://www.mongodb.com/atlas">
+    <img alt="MongoDb" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  </a>
   <a href="https://www.mysql.com/fr/">
     <img alt="mySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   </a>
   <br />
 </div>
+
 
 <div align="center">
   <a href="https://www.javascript.com/">
@@ -56,6 +64,9 @@ Here are some ideas to get you started:
   </a>
   <a href="https://sequelize.org/">
     <img alt="Sequelize" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+  </a>
+  <a href="https://mongoosejs.com/docs/">
+    <img alt="mongoose" width="45px" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" />
   </a>
   <br />
 </div>
@@ -90,4 +101,14 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/HAjulien/symfony-cantine-miam">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HAjulien&repo=symfony-cantine-miam&title_color=4537a1&border_color=4537a1" />
+</a>
+
+#### Pour me contacter:
+
+<a href="https://www.linkedin.com/in/ha-julien/">
+    <img alt="linkedin" width="35px" src="https://1000logos.net/wp-content/uploads/2017/03/Logo-LinkedIn.jpg" />
+</a> 
+&nbsp;
+<a href="mailto:hajulien1@gmail.com">
+  <img alt="Email" width="35px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>

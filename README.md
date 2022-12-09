@@ -15,15 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="background-color: rgb(0, 0, 50);">
-  
 ```javascript
 (() => {
   console.log("Bienvenue sur mon profil")
 })()
 ```
-</div>
-
 
 ### Outils, languages et framework utilisés : 
 <div align="center">

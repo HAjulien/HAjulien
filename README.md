@@ -22,70 +22,71 @@ Here are some ideas to get you started:
 ```
 
 ### Outils, languages et framework utilisés : 
+
+
 <div align="center">
    <a href="https://code.visualstudio.com/"> 
-    <img alt="VSCode" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img alt="VSCode" height="23px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" />
   </a>
   <a href="https://www.w3schools.com/html/">
-    <img alt="html5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img alt="html5" height="23px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img alt="CSS3" height="23px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
   </a>
   <a href="https://tailwindcss.com/">
-    <img alt="Tailwind" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img alt="Tailwind" height="23px" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" />
   </a>
 </div>
 
 <div align="center">
 
   <a href="https://www.mongodb.com/atlas">
-    <img alt="MongoDb" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img alt="MongoDb" height="23px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" />
   </a>
   <a href="https://www.mysql.com/fr/">
-    <img alt="mySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img alt="mySQL" height="23px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" />
   </a>
   <br />
 </div>
 
-
 <div align="center">
   <a href="https://www.javascript.com/">
-    <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img alt="JavaScript" height="23px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
   </a>
   <a href="https://fr.vuejs.org/">
-    <img alt="VueJS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img alt="VueJS" height="23px" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D" />
   </a>
   <a href= "https://nodejs.org/en/">
-    <img alt="NodeJS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+    <img alt="NodeJS" height="23px" src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" />
   </a>
   <a href="http://expressjs.com/">
-    <img alt="Express" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+    <img alt="Express" height="23px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" />
   </a>
   <a href="https://sequelize.org/">
-    <img alt="Sequelize" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+    <img alt="Sequelize" height="23px" src="https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white" />
   </a>
   <a href="https://mongoosejs.com/docs/">
-    <img alt="mongoose" width="45px" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" />
+    <img alt="mongoose" height="23px" src="https://img.shields.io/badge/mongoose-A03333?style=plastic&logo=mongoose&logoColor=white" />
   </a>
   <br />
 </div>
 
 <div align="center">
   <a href="https://www.php.net/">
-    <img alt="PHP" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img alt="PHP" height="23px" src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white" />
   </a>
   <a href="https://symfony.com/">
-    <img alt="Symfony" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
+    <img alt="Symfony" height="23px" src="https://img.shields.io/badge/symfony-%23000000.svg?style=plastic&logo=symfony&logoColor=white" />
   </a>
   <a href="https://www.doctrine-project.org/index.html">
-    <img alt="Doctrine" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-plain-wordmark.svg" />
+    <img alt="Doctrine" height="23px" src="https://img.shields.io/badge/doctrine-FA6A3C.svg?style=plastic" />
   </a>
   <a href="https://api-platform.com/">
-    <img alt="API Platform" width="35px" src="https://api-platform.com/static/74e20e175f4d908bbc0f1e2af28d3d66/Logo_Circle%20webby%20blue.svg" />
+    <img alt="API Platform" height="23px" src="https://img.shields.io/badge/API%20Platform-52B0E7?style=plastic" />
   </a>
   <a href="https://twig.symfony.com/">
-    <img alt="Twig" width="45px" src="https://th.bing.com/th?id=OIP.nMSVB3l7VZv3jhJK9S0q8QHaEn&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2" />
+    <img alt="Twig" height="23px" src="https://img.shields.io/badge/twig-%BACF29.svg?style=plastic" />
   </a>
 </div>
 <br />
